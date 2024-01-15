@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/blog-preview-card-css-grid-flexbox-oZ6sstP3xj)
 - Live Site URL: [GitHub Pages](https://raubaca.github.io/blog-preview-card/)
 
 ## My process
